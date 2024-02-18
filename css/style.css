@@ -1,0 +1,179 @@
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(250,214,192,1) 96%, rgba(250,216,192,1) 100%, rgba(255,234,187,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p {
+
+    size: 20;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    
+}
+
+.diseno1 {
+
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+
+.diseno2 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+}
+
+.diseno3 {
+    background-color: #C9FBF7;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+
+.diseno4 {
+    background-color: white;
+    color: black;
+    height: 40px;
+}
+
+.diseno5 {
+    background-color: gold;
+    color: blue;
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+}
+
+/* DISEÑO DE TABLA TERCERA VISTA*/
+.disenonew {
+    height: 50px;
+    width: 125px;
+    background-color: white;
+    text-align: center;
+}
+
+.lista1 {
+    height: 170px;
+    background-color: #C9FBF7;
+    font-size: 26px;
+}
+
+.acepto {
+    text-align: right;
+    color: black;
+    font-size: 23px;
+}
+
+.diseno6 {
+    background-color: white;
+    text-align: center;
+    height: 40px;
+}
+
+.numerouno{
+    height: 50px;
+    width: 125px;
+    background-color: #EEBC12;
+}
+
+.numerodos {
+    background-color: blue;
+    height: 50px;
+    width: 125px;
+    color: white;
+}
+
+.numerotres{
+    background-color: greenyellow;
+    height: 50px;
+    width: 125px;
+}
+
+.numerocuatro {
+    background-color: #EE9A09;
+    height: 50px;
+    width: 125px;
+}
+
+.numerocinco {
+    background-color: #09A9EE;
+    height: 50px;
+    width: 125px;
+}
+
+.numeroseis {
+    background-color: red;
+    height: 50px;
+    width: 125px;
+}
+.numerosiete{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 125px;
+}
+
+
+/* CSS DE IMAGENES */
+
+.imagenuno {
+    width: 90%;
+    height: 420%;
+    margin-bottom: -4px;
+}
+
+.imagendos {
+    width: 100%;
+}
+
+.imagentres {
+    width: 90%;
+}
+
+.nuevacelda {
+    background-color: #F1F81D;
+    color: darkblue;
+    width: 200px;
+    height: 30px;
+}
+#vistaact1 {
+    text-align: center;
+}
+
+#vistaact2 {
+    text-align: center;
+}
+
+ul {
+    width: 15%;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    height: 3px;
+   background-color: salmon;
+}
+
+th {
+    background-color: greenyellow;
+    color: darkblue;
+    width: 200px;
+    height: 30px;
+
+}
