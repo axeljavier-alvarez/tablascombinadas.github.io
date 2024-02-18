@@ -9,7 +9,7 @@ Project done in INTECAP part of the full stack development course, the proyect i
 
 ### Github page
 
-https://axeljavier-alvarez.github.io/listastablasyformularios.github.io/
+https://axeljavier-alvarez.github.io/tablascombinadas.github.io/
 
 ## Developed with
 <p align=left>
