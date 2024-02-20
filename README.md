@@ -1,15 +1,13 @@
 ### Features
-Project done in INTECAP part of the full stack development course, the proyect is about html and css aplication about:
-- make tables with html
-- combine cells with labels <colspan></colspan> and <rowspan></rowspan>
-- combine the cells of the tables.
-- add images to cells
-- add colors to cells
+Project done in INTECAP part of the full stack development course, the project is about:
+- view of products of a company
+- see locations through google maps
+- login view to register
+- see more details of the products
 
+### WebSite
 
-### Github page
-
-https://axeljavier-alvarez.github.io/tablascombinadas.github.io/
+http://axjavierjavier.000.pe/aatjavalvarez/?i=1
 
 ## Developed with
 <p align=left>
